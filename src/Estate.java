@@ -161,6 +161,7 @@ public class Estate {
         panelGlobal.add(MetricPanel);
         panelGlobal.add(FloorPanel);
         panelGlobal.add(FavoritePanel);
+        panelGlobal.add(SoldPanel);
         panelGlobal.add(buttonPanel);
 
 
