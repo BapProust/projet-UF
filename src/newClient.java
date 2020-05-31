@@ -75,7 +75,7 @@ class newClient {
         background.add(panelGlobal);
 
         //création de la fenêtre
-        choix.setTitle("Client");
+        choix.setTitle("New Client");
         choix.setLayout(null);
         choix.setSize(new Dimension(500, 200));
         choix.setContentPane(background);

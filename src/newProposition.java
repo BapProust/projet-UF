@@ -125,7 +125,7 @@ class newProposition {
         background.add(panelGlobal);
 
         //création de la fenêtre
-        choix.setTitle("Client");
+        choix.setTitle("New Proposal");
         choix.setLayout(null);
         choix.setSize(new Dimension(500, 200));
         choix.setContentPane(background);

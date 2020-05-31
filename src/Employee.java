@@ -149,7 +149,7 @@ public class Employee {
         background.add(panelGlobal);
 
         //création de la fenêtre
-        choix.setTitle("Client");
+        choix.setTitle("Employé");
         choix.setLayout(null);
         choix.setSize(new Dimension(500, 220));
         choix.setContentPane(background);
